@@ -1,4 +1,4 @@
-test_variable = 9
+test_variable = 8
 
 rus = "абвгдежзийклмнопрстуфхцчшщъыьэюя"
 alpha_lower = "abcdefghijklmnopqrstuvwxyz"
