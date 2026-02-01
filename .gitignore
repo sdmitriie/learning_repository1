@@ -1,0 +1,5 @@
+events.log
+*.log
+logs/*
+!crit_logs.log
+
